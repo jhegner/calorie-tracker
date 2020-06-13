@@ -1,0 +1,23 @@
+{
+  "name": "calorie-tracker",
+  "version": "1.0.0",
+  "description": "Okta - Secure Authentication for Vanilla JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhegner/calorie-tracker.git"
+  },
+  "keywords": [],
+  "author": "Jidlafe Hegner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhegner/calorie-tracker/issues"
+  },
+  "homepage": "https://github.com/jhegner/calorie-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
